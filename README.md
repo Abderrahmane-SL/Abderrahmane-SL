@@ -14,7 +14,7 @@
   <a href="https://www.linkedin.com/in/akram-ibnelyazyd-268979307/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://www.instagram.com/abdoo__04/" target="_blank">
+  <a href="https://www.instagram.com/abdoo_____04/" target="_blank">
      <img src="https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank" />
   </a>
 </div>
@@ -34,5 +34,4 @@
 <h2 align="center">📊 GitHub Stats </h2>
 <div align=center>
   <img width=340 src="https://github-readme-stats.vercel.app/api?username=Abderrahmane-SL&theme=react&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="streak stats"/>
-  <img width=340 src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkramBl01&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="top langs" />
 </div>
