@@ -8,7 +8,7 @@
 
 <div align="center"> 
 <h3 align="center">Connect with me:</h3>
-  <a href="mailto:akramibnelyazid@gmail.com">
+  <a href="mailto:abdozamin81@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/akram-ibnelyazyd-268979307/" target="_blank">
