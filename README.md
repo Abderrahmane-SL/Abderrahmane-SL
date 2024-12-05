@@ -14,7 +14,7 @@
   <a href="https://www.linkedin.com/in/akram-ibnelyazyd-268979307/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://www.instagram.com/abdoo_______04/" target="_blank">
+  <a href="https://www.instagram.com/abdoo________04/" target="_blank">
      <img src="https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank" />
   </a>
 </div>
