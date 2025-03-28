@@ -1,4 +1,7 @@
-<img src="https://visitcount.itsvg.in/api?id=Abderrahmane-SL&icon=0&color=1" align="right"/>
+<p align="right">
+  <img src="https://visitcount.itsvg.in/api?id=Abderrahmane-SL&icon=0&color=1" />
+</p>
+
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;I'm+Abderrahmane+Selloum!" alt="Typing SVG" />
