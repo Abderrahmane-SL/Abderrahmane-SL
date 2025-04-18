@@ -36,9 +36,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Abderrahmane-SL&theme=react&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" width="400"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abderrahmane-SL&theme=react&hide_border=true" alt="GitHub Streak" width="400"/>
 </div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abderrahmane-SL&langs_count=8&layout=compact&theme=react&hide_border=true" alt="Top Languages" width="400"/>
-</div>
+
 
 ---
 
